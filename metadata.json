@@ -1,0 +1,5 @@
+{
+  "name": "InterviewPrep AI",
+  "description": "A professional interview preparation quiz application powered by Gemini AI. Generate quizzes on any topic or input your own.",
+  "requestFramePermissions": []
+}
